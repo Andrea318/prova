@@ -1,0 +1,8 @@
+- Le uniche carte valide sono 1, 2 e 3.
+- Il giocatore con la carta in fondo di valore più alto inizia. In caso di parità, si confronta la carta precedente.
+- Ogni giocatore ha un proprio mazzo coperto e gioca una carta alla volta nel mazzo centrale. Possono interagire con il proprio mazzo o con il mazzo centrale.
+- Se un giocatore (A) gioca una carta 3, 2 o 1, il giocatore successivo (B) deve giocare una o due o tre carte. Se B non ha una carta valida, A raccoglie le carte dal mazzo centrale e le mette sotto il proprio mazzo.
+- Quando ci sono due carte uguali nel mazzo centrale, il primo giocatore a mettere la mano sopra di esse le prende entrambe. Se un giocatore batte ma non ci sono due carte uguali, vengono bruciate due carte.
+- Se si gioca con più di due giocatori, se A gioca una carta e il giocatore successivo (B) non ha una carta valida ma il giocatore successivo a B (C) gioca una carta prima che A possa raccogliere, il gioco continua. Se A batte la carta di C, vengono bruciate tre carte.
+- Se A gioca una carta come 1,2,3 e B non ha una carta valida ma ha molte carte nel proprio mazzo, può decidere, prima che A raccolga, di bruciare volontariamente 3 carte per continuare il gioco e avere la possibilità di prendere.
+- Se un giocatore finisce le proprie carte in un gioco con più di due giocatori, può rientrare in gioco battendo quando ci sono due carte uguali.
