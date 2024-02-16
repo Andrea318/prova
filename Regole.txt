@@ -1,3 +1,4 @@
+- Si gioca con 40 carte e vengono divise per quanti giocatori ci sono.
 - Le uniche carte valide sono 1, 2 e 3.
 - Il giocatore con la carta in fondo di valore più alto inizia. In caso di parità, si confronta la carta precedente.
 - Ogni giocatore ha un proprio mazzo coperto e gioca una carta alla volta nel mazzo centrale. Possono interagire con il proprio mazzo o con il mazzo centrale.
